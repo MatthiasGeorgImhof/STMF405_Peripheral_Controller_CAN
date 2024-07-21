@@ -5182,7 +5182,7 @@
 			(pintype "passive")
 			(uuid "e2cffdf6-883f-41a5-b462-71d1280da63c")
 		)
-		(model "${KIPRJMOD}/IND_DFE322520FD-4R7MP2_MUR.step"
+		(model "${KIPRJMOD}/step3d/IND_DFE322520FD-4R7MP2_MUR.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6689,7 +6689,7 @@
 			(pintype "passive")
 			(uuid "0525c4cc-a01d-478e-8696-35da8594c505")
 		)
-		(model "${KIPRJMOD}/U-DFN2020-2_DIO.step"
+		(model "${KIPRJMOD}/step3d/U-DFN2020-2_DIO.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6958,7 +6958,7 @@
 			(pintype "unspecified")
 			(uuid "9c074e9c-fca2-4e86-bb90-91b1fe56a48a")
 		)
-		(model "${KIPRJMOD}/evpaa602w.stp"
+		(model "${KIPRJMOD}/step3d/evpaa602w.stp"
 			(offset
 				(xyz 1.5 -1 1.5)
 			)
@@ -13557,7 +13557,7 @@
 			(solder_mask_margin 0.102)
 			(uuid "4f150d1a-5fe1-4252-9565-68a6146604c2")
 		)
-		(model "${KIPRJMOD}/10155435-00011LF--3DModel-STEP-510211.STEP"
+		(model "${KIPRJMOD}/step3d/10155435-00011LF--3DModel-STEP-510211.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -27942,7 +27942,7 @@
 			(pintype "passive")
 			(uuid "857c51a1-e040-49b8-ab0f-461caf361e51")
 		)
-		(model "${KIPRJMOD}/IND_DFE322520FD-4R7MP2_MUR.step"
+		(model "${KIPRJMOD}/step3d/IND_DFE322520FD-4R7MP2_MUR.step"
 			(offset
 				(xyz 0 0 0)
 			)
