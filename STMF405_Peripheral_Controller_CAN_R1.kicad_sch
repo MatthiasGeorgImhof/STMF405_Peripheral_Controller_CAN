@@ -14255,7 +14255,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k2"
+		(property "Value" "680"
 			(at 259.08 274.3199 0)
 			(effects
 				(font
@@ -14309,7 +14309,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0402FR-071K2L"
+		(property "Part Number" "RC0402FR-07680RL"
 			(at 256.54 273.05 0)
 			(effects
 				(font
@@ -15932,7 +15932,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3k3"
+		(property "Value" "1k5"
 			(at 187.96 274.3199 0)
 			(effects
 				(font
@@ -15986,7 +15986,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0402FR-073K3L"
+		(property "Part Number" "RC0402FR-071K5L"
 			(at 185.42 273.05 0)
 			(effects
 				(font
@@ -19349,7 +19349,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3k3"
+		(property "Value" "1k2"
 			(at 240.03 274.3199 0)
 			(effects
 				(font
@@ -19403,7 +19403,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0402FR-073K3L"
+		(property "Part Number" "RC0402FR-071K2L"
 			(at 237.49 273.05 0)
 			(effects
 				(font
@@ -30377,7 +30377,7 @@
 		(fields_autoplaced yes)
 		(uuid "de20ab42-6107-4492-a91c-e11736b1cd18")
 		(property "Reference" "R3"
-			(at 212.09 271.78 0)
+			(at 212.09 271.7799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30385,8 +30385,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3k3"
-			(at 212.09 274.32 0)
+		(property "Value" "1k5"
+			(at 212.09 274.3199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30439,7 +30439,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0402FR-073K3L"
+		(property "Part Number" "RC0402FR-071K5L"
 			(at 209.55 273.05 0)
 			(effects
 				(font
@@ -31285,7 +31285,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k2"
+		(property "Value" "680"
 			(at 273.05 109.2199 0)
 			(effects
 				(font
@@ -31339,7 +31339,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0402FR-071K2L"
+		(property "Part Number" "RC0402FR-07680RL"
 			(at 270.51 107.95 0)
 			(effects
 				(font
@@ -32874,7 +32874,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3k3"
+		(property "Value" "1k5"
 			(at 165.1 274.3199 0)
 			(effects
 				(font
@@ -32928,7 +32928,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0402FR-073K3L"
+		(property "Part Number" "RC0402FR-071K5L"
 			(at 162.56 273.05 0)
 			(effects
 				(font
